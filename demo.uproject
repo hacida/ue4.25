@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{9FCF6D22-4B1C-6B86-9106-0780B43208AE}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "demo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
